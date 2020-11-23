@@ -1,6 +1,6 @@
 ### Hi there, I'm Iñigo! 👋
 
-- 🔭 I’m currently working on @guidesmiths
+- 🔭 I’m currently working at [@guidesmiths](https://github.com/guidesmiths)
 
 [![Iñigo's github stats](https://github-readme-stats.vercel.app/api?username=inigomarquinez&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
