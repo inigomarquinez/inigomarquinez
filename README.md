@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inigomarquinez)](https://github.com/anuraghazra/github-readme-stats)
 
-[![inigomarquinez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inigomarquinez)
+![inigomarquinez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inigomarquinez)
 
 This is my [2020 GitHub Skyline](https://skyline.github.com/inigomarquinez/2020)
 
