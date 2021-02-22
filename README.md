@@ -10,7 +10,7 @@
 
 This is my [2020 GitHub Skyline](https://skyline.github.com/inigomarquinez/2020)
 
-<figure><embed src="https://wakatime.com/share/@inigomarquinez/c794cf97-1875-41d1-93ca-f81f743dbab0.svg"></embed></figure>
+![inigomarquinez's wakatime stats](https://wakatime.com/share/@inigomarquinez/c794cf97-1875-41d1-93ca-f81f743dbab0.svg)
 
 <!--
 **inigomarquinez/inigomarquinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
