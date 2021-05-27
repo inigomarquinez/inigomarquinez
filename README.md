@@ -8,7 +8,16 @@
 
 ![inigomarquinez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inigomarquinez)
 
-This is my [2020 GitHub Skyline](https://skyline.github.com/inigomarquinez/2020)
+My GitHub Skylines: [2020](https://skyline.github.com/inigomarquinez/2020) | [2021](https://skyline.github.com/inigomarquinez/2021)
+
+My repositories are organized as follows:
+
+- `kata-` for katas
+- `howto-` for tutorials o how to do specific tasks
+- `lab-` for my experiments
+- `training-` for repositories used for attended training courses
+- `temp-` for temporal tasks
+- `challenge-` for code challenges
 
 <!--
 ![inigomarquinez's wakatime stats](https://wakatime.com/share/@inigomarquinez/c794cf97-1875-41d1-93ca-f81f743dbab0.svg)
