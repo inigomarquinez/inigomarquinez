@@ -10,7 +10,7 @@
 
 My GitHub Skylines: [2020](https://skyline.github.com/inigomarquinez/2020) | [2021](https://skyline.github.com/inigomarquinez/2021)
 
-My repositories are organized as follows:
+My repositories are organized and tagged as follows:
 
 - `kata-` for katas
 - `howto-` for tutorials o how to do specific tasks
