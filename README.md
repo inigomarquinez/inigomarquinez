@@ -11,9 +11,9 @@
 
 [![Iñigo's github stats](https://github-readme-stats.vercel.app/api?username=inigomarquinez&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inigomarquinez)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inigomarquinez&langs_count=10&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![inigomarquinez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inigomarquinez)
+![inigomarquinez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inigomarquinez&theme=dark&layout=compact)
 
 My GitHub Skylines: [2020](https://skyline.github.com/inigomarquinez/2020) | [2021](https://skyline.github.com/inigomarquinez/2021)
 
