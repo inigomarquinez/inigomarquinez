@@ -3,7 +3,7 @@ Hi there, I'm Íñigo! 👋
 </h1>
 
 <p align='center'>
-  A Full Stack developer, Team Lead and on my way to Junior Architect from Spain.<br/><br/>
+  A Full Stack developer, Team Lead and on my way to Junior Architect.<br/><br/>
   I’m currently working at <a href=https://github.com/guidesmiths>DCSL GuideSmiths</a>.
 </p>
 
