@@ -3,7 +3,7 @@ Hi there, I'm Íñigo! 👋
 </h1>
 
 <p align='center'>
-  A Full Stack developer, Team Lead and on my way to Junior Architect.<br/><br/>
+  Full Stack developer, Team Lead and on my way to Junior Architect.<br/><br/>
   I’m currently working at <a href=https://github.com/guidesmiths>DCSL GuideSmiths</a>.<br/><br/>
   <a href="https://github.com/inigomarquinez?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  /></a>
   <a href="https://www.linkedin.com/in/inigo-marquinez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
