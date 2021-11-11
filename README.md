@@ -26,7 +26,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inigomarquinez&langs_count=10&theme=dark&layout=compact)
 
-![inigomarquinez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inigomarquinez&theme=dark&layout=compact)
+<!-- ![inigomarquinez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inigomarquinez&theme=dark&layout=compact) -->
+
+[![wakatime](https://wakatime.com/badge/user/5e3e69d9-6a39-4817-973b-29714bade865.svg)](https://wakatime.com/@5e3e69d9-6a39-4817-973b-29714bade865)
 
 My GitHub Skylines: [2020](https://skyline.github.com/inigomarquinez/2020) | [2021](https://skyline.github.com/inigomarquinez/2021)
 
