@@ -24,7 +24,7 @@
 
 ![Iñigo's github stats](https://github-readme-stats.vercel.app/api?username=inigomarquinez&count_private=true&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inigomarquinez&langs_count=10&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inigomarquinez&langs_count=10&theme=dark&layout=compact&hide=c++)
 
 <!-- ![inigomarquinez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inigomarquinez&theme=dark&layout=compact) -->
 
