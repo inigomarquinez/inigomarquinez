@@ -16,8 +16,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-react-informational?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JS-informational?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
 </p>
 
 ## My stats
