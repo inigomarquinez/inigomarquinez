@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>
-    Full Stack developer 👨‍💻<br/>Team Lead 👨‍🏫💻<br/>and on my way to Technical Architect 👷‍♂️<br/><br/>
+    Full Stack developer 👨‍💻<br/>Team Lead 👨‍🏫<br/>and on my way to Technical Architect 👷‍♂️<br/><br/>
   </strong>
   I’m currently working at <a href="https://github.com/guidesmiths" target="_blank">DCSL GuideSmiths</a><a href="https://www.dcsl.com" target="_blank"> 🔗</a>.<br/><br/>
   <a href="https://github.com/inigomarquinez?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
