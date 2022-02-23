@@ -11,10 +11,42 @@
   <a href="https://www.linkedin.com/in/inigo-marquinez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h2 align="center">
-  Main technologies I know 🤖
-</h2>
+## 🤖 Main technologies I know
 
+<!--
+<table>
+  <tr>
+    <th></th>
+    <th>Advanced usage</th>
+    <th>Basic knowledge</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td>Front-end</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Back-end</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Infrastructure</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>Others</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+-->
 <p align="center">
   <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -22,13 +54,18 @@
   <img src="https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
 </p>
 
-## My stats
+## 📊 My stats
 
-![Iñigo's github stats](https://github-readme-stats.vercel.app/api?username=inigomarquinez&count_private=true&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inigomarquinez&langs_count=10&theme=dark&layout=compact&hide=c%2B%2B)
-
-<!-- ![inigomarquinez's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inigomarquinez&theme=dark&layout=compact) -->
+<table>
+  <tr>
+    <td>
+      <img alt="Iñigo's github stats" src="https://github-readme-stats.vercel.app/api?username=inigomarquinez&count_private=true&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img alt="Iñigo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inigomarquinez&langs_count=10&theme=dark&layout=compact&hide=c%2B%2B" />
+    </td>
+  </tr>
+</table>
 
 [![wakatime](https://wakatime.com/badge/user/5e3e69d9-6a39-4817-973b-29714bade865.svg)](https://wakatime.com/@5e3e69d9-6a39-4817-973b-29714bade865)
 
@@ -36,7 +73,7 @@ My GitHub Skylines: [2020](https://skyline.github.com/inigomarquinez/2020) | [20
 
 <a href="#"><img src="https://badges.pufler.dev/visits/inigomarquinez/inigomarquinez"></a>
 
-## My repos
+## :open_file_folder: Organization of my public repos
 
 My repositories are organized and tagged as follows:
 
