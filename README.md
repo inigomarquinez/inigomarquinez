@@ -116,6 +116,8 @@
 
 ## 📊 My stats
 
+[Code Stats for 2022](https://wakatime.com/a-look-back-at-2022/5e3e69d9-6a39-4817-973b-29714bade865/ysspnxgsng)
+
 <table>
   <tr>
     <td>
