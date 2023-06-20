@@ -138,12 +138,12 @@ My GitHub Skylines: [2020](https://skyline.github.com/inigomarquinez/2020) | [20
 
 My repositories are organized and tagged as follows:
 
-- `kata-` for katas
-- `howto-` for tutorials o how to do specific tasks
-- `lab-` for my experiments
-- `training-` for repositories used for attended training courses
-- `temp-` for temporal tasks
-- `challenge-` for code challenges
+- 🤼 `challenge-` for code challenges
+- 🤔 `howto-` for tutorials o how to do specific tasks
+- 🥋 `kata-` for katas
+- 🧪 `lab-` for my experiments
+- ⏳ `temp-` for temporal tasks
+- 📚 `training-` for repositories used for attended training courses
 
 <!--
 ![inigomarquinez's wakatime stats](https://wakatime.com/share/@inigomarquinez/c794cf97-1875-41d1-93ca-f81f743dbab0.svg)
