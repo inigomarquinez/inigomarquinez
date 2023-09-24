@@ -4,55 +4,31 @@
 
 <p align="center">
   <strong>
-    Full Stack developer 👨‍💻<br/>Lead 👨‍🏫<br/>and on my way to Technical Architect 👷‍♂️<br/><br/>
+    Full Stack developer 👨‍💻
+    <br />
+    Technical Lead 👨‍🏫
+    <br />
+    and Technical Architect 👷‍♂️.
+    <br /><br />
   </strong>
-  I’m currently working at <a href="https://www.one-beyond.com/" target="_blank">One Beyond</a>.<br/><br/>
+  <br />📚 I studied <strong>Telecommunication Engineering</strong>
+  <br />👨🏻‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
+  <br /> 🌱 I’m currently learning <strong><a href="https://nextjs.org/" target="_blank">Next.js</a></strong>
+  <br /> 👯 I’m looking to collaborate on <strong>Open Source</strong> projects
+  <!-- <br /> 💬 Ask me about ... -->
+  <br /> 😄 Pronouns: he / him / his
+  <!-- <br /> ⚡ Fun fact: ... -->
+  <br />
+  <br /> 📫 How to <strong>reach me:</strong>
+  <br />
   <a href="https://github.com/inigomarquinez?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/inigo-marquinez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://dev.to/inigomarquinez" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  
-  
 </p>
 
 ## 🤖 Main technologies I know
 
-<!--
-<table>
-  <tr>
-    <th colspan="2">Front-end</th>
-  <tr>
-    <th>Skill</th>
-    <th>Knowledge</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></td>
-    <td>👨‍💻👨‍💻👨‍💻</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /></td>
-    <td>👨‍💻👨‍💻👨‍💻</td>
-  </tr>
-
-  <tr>
-    <td>Back-end</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Infrastructure</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Others</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
--->
+<br />
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <p align="center">
@@ -115,7 +91,14 @@
 
 ## 📊 My stats
 
-[Code Stats for 2022](https://wakatime.com/a-look-back-at-2022/5e3e69d9-6a39-4817-973b-29714bade865/ysspnxgsng)
+[![updated](https://badges.pufler.dev/updated/inigomarquinez/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/updated/inigomarquinez/inigomarquinez)
+[![repos](https://badges.pufler.dev/repos/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/repos/inigomarquinez)
+[![gists](https://badges.pufler.dev/gists/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/gists/inigomarquinez)
+[![commits](https://badges.pufler.dev/commits/yearly/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/commits/monthly/inigomarquinez)
+[![visits](https://badges.pufler.dev/visits/inigomarquinez/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/visits/inigomarquinez/inigomarquinez)
+[![wakatime](https://wakatime.com/badge/user/5e3e69d9-6a39-4817-973b-29714bade865.svg?style=for-the-badge)](https://wakatime.com/@5e3e69d9-6a39-4817-973b-29714bade865)
+
+<br />
 
 <table>
   <tr>
@@ -126,15 +109,14 @@
       <img alt="Iñigo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inigomarquinez&langs_count=10&theme=dark&layout=compact&hide=c%2B%2B" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://wakatime.com/share/@inigomarquinez/43b5a45e-d862-43c2-a5ab-0c94f04adee5.svg">
+    </td>
+  </tr>
 </table>
 
-[![wakatime](https://wakatime.com/badge/user/5e3e69d9-6a39-4817-973b-29714bade865.svg)](https://wakatime.com/@5e3e69d9-6a39-4817-973b-29714bade865)
-
-My GitHub Skylines: [2020](https://skyline.github.com/inigomarquinez/2020) | [2021](https://skyline.github.com/inigomarquinez/2021)
-
-<a href="#"><img src="https://badges.pufler.dev/visits/inigomarquinez/inigomarquinez"></a>
-
-## :open_file_folder: Organization of my public repos
+## 🗂️ Organization of my public repos
 
 My repositories are organized and tagged as follows:
 
@@ -145,22 +127,12 @@ My repositories are organized and tagged as follows:
 - ⏳ `temp-` for temporal tasks
 - 📚 `training-` for repositories used for attended training courses
 
-<!--
-![inigomarquinez's wakatime stats](https://wakatime.com/share/@inigomarquinez/c794cf97-1875-41d1-93ca-f81f743dbab0.svg)
--->
+## 🙏🏼 Thanks
 
-<!--
-Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
-Shields: https://shields.io/
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Badges
+  - shields
+  - https://github.com/Envoy-VC/awesome-badges
+  - https://github.com/alexandresanlim/Badges4-README.md-Profile
+  - https://pufler.dev/badge-it/
+- Statistics
+  - [Wakatime](https://wakatime.com/)
