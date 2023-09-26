@@ -128,7 +128,7 @@ My repositories are organized and tagged as follows:
 ## 🙏🏼 Thanks
 
 - Badges
-  - shields
+  - [shields.io](https://img.shields.io)
   - https://github.com/Envoy-VC/awesome-badges
   - https://github.com/alexandresanlim/Badges4-README.md-Profile
   - https://pufler.dev/badge-it/
