@@ -94,7 +94,7 @@
 My repositories are organized and tagged as follows:
 
 - 🤼 `challenge-` for code challenges
-- 🤔 `howto-` for tutorials o how to do specific tasks
+- 🤔 `howto-` for tutorials on how to do specific tasks
 - 🥋 `kata-` for katas
 - 🧪 `lab-` for my experiments
 - ⏳ `temp-` for temporal tasks
@@ -126,7 +126,7 @@ My repositories are organized and tagged as follows:
 </table>
 
 <details>
-![GitHub stats](https://github.com/ljharb/ljharb/blob/metrics/github-metrics.svg)
+![GitHub stats](https://github.com/inigomarquinez/inigomarquinez/blob/main/github-metrics.svg)
 </details>
 
 ## 🙏🏼 Thanks
