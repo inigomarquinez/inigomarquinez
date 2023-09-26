@@ -89,6 +89,17 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 </p>
 
+## 🗂️ Organization of my public repos
+
+My repositories are organized and tagged as follows:
+
+- 🤼 `challenge-` for code challenges
+- 🤔 `howto-` for tutorials o how to do specific tasks
+- 🥋 `kata-` for katas
+- 🧪 `lab-` for my experiments
+- ⏳ `temp-` for temporal tasks
+- 📚 `training-` for repositories used for attended training courses
+
 ## 📊 My stats
 
 [![repos](https://badges.pufler.dev/repos/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/repos/inigomarquinez)
@@ -114,16 +125,9 @@
   </tr>
 </table>
 
-## 🗂️ Organization of my public repos
-
-My repositories are organized and tagged as follows:
-
-- 🤼 `challenge-` for code challenges
-- 🤔 `howto-` for tutorials o how to do specific tasks
-- 🥋 `kata-` for katas
-- 🧪 `lab-` for my experiments
-- ⏳ `temp-` for temporal tasks
-- 📚 `training-` for repositories used for attended training courses
+<details>
+![GitHub stats](https://github.com/ljharb/ljharb/blob/metrics/github-metrics.svg)
+</details>
 
 ## 🙏🏼 Thanks
 
@@ -132,5 +136,6 @@ My repositories are organized and tagged as follows:
   - https://github.com/Envoy-VC/awesome-badges
   - https://github.com/alexandresanlim/Badges4-README.md-Profile
   - https://pufler.dev/badge-it/
-- Statistics
+- Statistics / metrics
   - [Wakatime](https://wakatime.com/)
+  - https://github.com/lowlighter/metrics
