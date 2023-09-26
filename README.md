@@ -91,10 +91,8 @@
 
 ## 📊 My stats
 
-[![updated](https://badges.pufler.dev/updated/inigomarquinez/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/updated/inigomarquinez/inigomarquinez)
 [![repos](https://badges.pufler.dev/repos/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/repos/inigomarquinez)
 [![gists](https://badges.pufler.dev/gists/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/gists/inigomarquinez)
-[![commits](https://badges.pufler.dev/commits/yearly/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/commits/monthly/inigomarquinez)
 [![visits](https://badges.pufler.dev/visits/inigomarquinez/inigomarquinez?style=for-the-badge)](https://badges.pufler.dev/visits/inigomarquinez/inigomarquinez)
 [![wakatime](https://wakatime.com/badge/user/5e3e69d9-6a39-4817-973b-29714bade865.svg?style=for-the-badge)](https://wakatime.com/@5e3e69d9-6a39-4817-973b-29714bade865)
 
