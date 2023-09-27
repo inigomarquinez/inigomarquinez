@@ -125,7 +125,7 @@ My repositories are organized and tagged as follows:
   </tr>
 </table>
 
-![GitHub stats](https://github.com/inigomarquinez/inigomarquinez/blob/main/github-metrics.svg)
+<img src="/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
 ## 🙏🏼 Thanks
 
