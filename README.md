@@ -127,6 +127,8 @@ My repositories are organized and tagged as follows:
 
 <img src="/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
+[![An image of @inigomarquinez's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/inigomarquinez)](https://holopin.io/@inigomarquinez)
+
 ## 🙏🏼 Thanks
 
 - Badges
