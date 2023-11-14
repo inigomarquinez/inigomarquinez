@@ -11,7 +11,7 @@
     and Technical Architect 👷‍♂️.
     <br /><br />
   </strong>
-  <br />📚 I studied <strong>Telecommunication Engineering</strong>
+  <br />📚 I studied <strong>Telecommunication Engineering</strong> at <a href="https://www.ehu.eus/" target="_blank">University of the Basque Country</a>
   <br />👨🏻‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
   <br /> 🌱 I’m currently learning <strong><a href="https://nextjs.org/" target="_blank">Next.js</a></strong>
   <br /> 👯 I’m looking to collaborate on <strong>Open Source</strong> projects
