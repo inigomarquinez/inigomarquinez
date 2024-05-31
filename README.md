@@ -107,7 +107,7 @@ My repositories are organized and tagged as follows:
 - 🥋 `kata-` for katas
 - 🧪 `lab-` for my experiments
 - ⏳ `temp-` for temporal tasks
-- 📚 `training-` for repositories used for attended training courses
+- 📚 `training-` or `learning-` for repositories used for learning or training courses
 
 ## 📊 My stats
 
