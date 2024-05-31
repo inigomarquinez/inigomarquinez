@@ -13,8 +13,8 @@
   </strong>
   <br />📚 I studied <strong>Telecommunication Engineering</strong> at <a href="https://www.ehu.eus/" target="_blank">University of the Basque Country</a>
   <br />👨🏻‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
-  <br /> 🌱 I’m currently learning <strong><a href="https://nextjs.org/" target="_blank">Next.js</a></strong>
-  <br /> 👯 I’m looking to collaborate on <strong>Open Source</strong> projects
+  <br /> 🌱 I’m currently learning <strong><a href="https://astro.build/" target="_blank">Astro</a></strong>
+  <br /> 👯 I am an <strong>Open Source maintainer<strong> in the <a href="https://github.com/onebeyond" target="_blank">One Beyond</a> and <a href="https://github.com/expressjs" target="_blank">expressjs</a> organisations.
   <!-- <br /> 💬 Ask me about ... -->
   <br /> 😄 Pronouns: he / him / his
   <!-- <br /> ⚡ Fun fact: ... -->
@@ -26,24 +26,33 @@
   <a href="https://dev.to/inigomarquinez" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
-## 🤖 Main technologies I know
+## 💻 My main programming languages
+
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+## 🤖 Other languages, technologies and frameworks I know
 
 <br />
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=nextjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-CA4245?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
