@@ -12,9 +12,8 @@
     <br /><br />
   </strong>
   <br />📚 I studied <strong>Telecommunication Engineering</strong> at <a href="https://www.ehu.eus/" target="_blank">University of the Basque Country</a>
-  <br />👨🏻‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
+  <br />👨🏻‍💻 I’m currently working at <strong><a href="https://esim.holafly.com/" target="_blank">Holafly</a></strong>
   <br /> 🌱 I’m currently learning <strong><a href="https://astro.build/" target="_blank">Astro</a></strong>
-  <br /> 👯 I am an <strong>Open Source maintainer<strong> in the <a href="https://github.com/onebeyond" target="_blank">One Beyond</a> and <a href="https://github.com/expressjs" target="_blank">expressjs</a> organisations.
   <!-- <br /> 💬 Ask me about ... -->
   <br /> 😄 Pronouns: he / him / his
   <!-- <br /> ⚡ Fun fact: ... -->
